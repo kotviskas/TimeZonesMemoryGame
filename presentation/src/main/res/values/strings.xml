@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TimeZonesMemoryGame</string>
+    <string name="play_menu_fragment">Play</string>
+    <string name="description_menu_fragment">match the time zone with the city</string>
+    <string name="time_mode_menu_fragment">Play for time</string>
+    <string name="casual_mode_menu_fragment">Casual</string>
+</resources>
